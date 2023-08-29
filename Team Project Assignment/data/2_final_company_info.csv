@@ -1,0 +1,170 @@
+CommonName,PrimaryRIC,OAPermID,CountryHeadquarters,Ticker,PrimaryRICExchangeCode,PrimaryRICTickerSymbol,IsPublic,BondsCount
+JPMorgan Chase & Co,JPM,5000021791,USA,JPM,NYQ,JPM,True,1423
+Bank of America Corp,BAC,8589934339,USA,BAC,NYQ,BAC,True,852
+Wells Fargo & Co,WFC,8589934175,USA,WFC,NYQ,WFC,True,450
+HSBC Holdings PLC,HSBA.L,8589934275,GBR,HSBA,LSE,HSBA,True,125
+Royal Bank of Canada,RY.TO,8589934213,CAN,RY,TOR,RY,True,5848
+Toronto-Dominion Bank,TD.TO,4295862902,CAN,TD,TOR,TD,True,5988
+Commonwealth Bank of Australia,CBA.AX,4295856152,AUS,CBA,ASX,CBA,True,1225
+Mitsubishi UFJ Financial Group Inc,8306.T,5000000933,JPN,MTFGI,TYO,8306,True,131
+BNP Paribas SA,BNPP.PA,8589934326,FRA,BNPP,PAR,BNP,True,3388
+Bank of Montreal,BMO.TO,4295860596,CAN,BMO,TOR,BMO,True,10130
+Banco Santander SA,SAN.MC,8589934205,ESP,SAN,MCE,SAN,True,515
+Sumitomo Mitsui Financial Group Inc,8316.T,4295878766,JPN,SUMFG,TYO,8316,True,101
+Bank of Nova Scotia,BNS.TO,4295860592,CAN,BNS,TOR,BNS,True,4616
+National Australia Bank Ltd,NAB.AX,4295857405,AUS,NAB,ASX,NAB,True,742
+US Bancorp,USB,8589934183,USA,USB,NYQ,USB,True,33
+PNC Financial Services Group Inc,PNC,4295904676,USA,PNC,NYQ,PNC,True,24
+ING Groep NV,INGA.AS,4295884647,NLD,INGA,AEX,INGA,True,77
+Westpac Banking Corp,WBC.AX,4295856627,AUS,WBC,ASX,WBC,True,631
+Intesa Sanpaolo SpA,ISP.MI,4295875735,ITA,ISP,MIL,ISP,True,476
+UniCredit SpA,CRDI.MI,4295875726,ITA,CRDI,MIL,UCG,True,190
+Truist Financial Corp,TFC,4295903505,USA,TFC,NYQ,TFC,True,32
+Nordea Bank Abp,NDAFI.HE,5060588378,FIN,NDAFI,HEX,NDA FI,True,1058
+Mizuho Financial Group Inc,8411.T,4295878505,JPN,MZFG,TYO,8411,True,93
+Canadian Imperial Bank of Commerce,CM.TO,4295860600,CAN,CM,TOR,CM,True,8432
+Lloyds Banking Group PLC,LLOY.L,8589934254,GBR,LLOY,LSE,LLOY,True,80
+Barclays PLC,BARC.L,8589934333,GBR,BARC,LSE,BARC,True,95
+Natwest Group PLC,NWG.L,8589934212,GBR,NWG,LSE,NWG,True,43
+Skandinaviska Enskilda Banken AB,SEBa.ST,8589934200,SWE,SEB,STO,SEB A,True,569
+National Bank of Canada,NA.TO,4295862904,CAN,,TOR,,True,2061
+Standard Chartered PLC,STAN.L,4295895205,GBR,STAN,LSE,STAN,True,103
+Deutsche Bank AG,DBKGn.DE,4295869482,DEU,DBKG,GER,DBK,True,1739
+Societe Generale SA,SOGN.PA,5000039357,FRA,SOGN,PAR,GLE,True,4501
+Swedbank AB,SWEDa.ST,8589934289,SWE,SWEDX,STO,SWED A,True,436
+Regions Financial Corp,RF,4295907751,USA,RF,NYQ,RF,True,9
+Svenska Handelsbanken AB,SHBa.ST,8589934190,SWE,SHB,STO,SHB A,True,401
+Huntington Bancshares Inc,HBAN.O,4295906733,USA,HBAN,NSQ,HBAN,True,15
+Citizens Financial Group Inc,CFG,4296419629,USA,CFG,NYQ,CFG,True,18
+Shinhan Financial Group Co Ltd,055550.KS,4295881976,KOR,SHING,KSC,055550,True,102
+Banco de Chile,CHILE.SN,4295863540,CHL,CHILX,SGO,CHILE,True,324
+Aib Group PLC,AIBG.I,5059082241,IRL,AIBG,ISE,A5G,True,17
+Bank of Ireland Group PLC,BIRG.I,5056415510,IRL,BIRG,ISE,BIRG,True,19
+KeyCorp,KEY,4295904371,USA,KEY,NYQ,KEY,True,14
+Mediobanca Banca di Credito Finanziario SpA,MDBI.MI,4295875731,ITA,MDBI,MIL,MB,True,117
+Banco Santander-Chile,BSANTANDER.SN,4295863439,CHL,BSANT,SGO,BSANTANDER,True,443
+Webster Financial Corp,WBS,4295908449,USA,WBS,NYQ,WBS,True,7
+Bancolombia SA,BIC.CN,4295865713,COL,BIC,COL,BCOLOMBIA,True,3550
+First Horizon Corp,FHN,4295903994,USA,FHN,NYQ,FHN,True,6
+Comerica Inc,CMA,4295903746,USA,CMA,NYQ,CMA,True,4
+QNB Finansbank AS,QNBFB.IS,5000063167,TUR,QNBFB,IST,QNBFB.E,True,22
+Turkiye Garanti Bankasi AS,GARAN.IS,4295893548,TUR,GARAN,IST,GARAN.E,True,16
+Banco de Credito e Inversiones,BCI.SN,4295863513,CHL,BCI,SGO,BCI,True,470
+Turkiye Is Bankasi AS,ISCTR.IS,4295893598,TUR,ISCTR,IST,ISCTR.E,True,33
+Akbank TAS,AKBNK.IS,4295893638,TUR,AKBNK,IST,AKBNK.E,True,25
+Old National Bancorp,ONB.O,4295907462,USA,ONB,NSQ,ONB,True,4
+Synovus Financial Corp,SNV,4295905022,USA,SNV,NYQ,SNV,True,4
+Yapi ve Kredi Bankasi AS,YKBNK.IS,4295893564,TUR,YKBNK,IST,YKBNK.E,True,32
+Turkiye Vakiflar Bankasi TAO,VAKBN.IS,4295893750,TUR,VAKBN,IST,VAKBN.E,True,28
+Banco de Bogota SA,BBO.CN,4295865671,COL,BBO,COL,BOGOTA,True,3914
+Aozora Bank Ltd,8304.T,4295878798,JPN,AOZRA,TYO,8304,True,9
+Bancorp Inc,TBBK.O,4295913876,USA,TBBK,NSQ,TBBK,True,1
+BankUnited Inc,BKU,5001204503,USA,BKU,NYQ,BKU,True,2
+Hilltop Holdings Inc,HTH,4295899345,USA,HTH,NYQ,HTH,True,5
+Tatra Banka as,1TAT01DE.BV,4295888234,SVK,ATATO,BRA,1TAT01DE,True,18
+Banc of California Inc,BANC.K,4295902744,USA,BANC,NYQ,BANC,True,31
+Turkiye Sinai Kalkinma Bankasi AS,TSKB.IS,4295893556,TUR,TSKB,IST,TSKB.E,True,4
+Macquarie Bank Ltd,MBLPC.AX,4295856982,AUS,MQGMBL,ASX,,True,378
+HomeStreet Inc,HMST.O,4298443884,USA,HMST,NSQ,HMST,True,3
+HSBC USA Inc,HUSI_pf.K^F16,4295900343,USA,HSBAOH,NYQ,HUSI PR F CL,False,2679
+UniCredit Bank AG,HVMG.DE^I08,5000048673,DEU,UCGUNI,GER,HVM,False,887
+Scotiabank Chile,SCOTIAOSA.SN^E20,5000038955,CHL,SCOTX,SGO,,False,818
+Credit Industriel et Commercial SA,CC.PA^H17,4295866679,FRA,CAFDMC,PAR,CC,False,785
+Australia and New Zealand Banking Group Ltd,AN3PF.AX^C23,4295856605,AUS,ANZ,ASX,AN3PF,False,657
+First-Citizens Bank & Trust Co,CIT^A22,4296462551,USA,FCNCFI,NYQ,,False,200
+OP Yrityspankki Oyj,POH1S.HE^J14,4295866371,FIN,OPOSUY,HEX,POH1S,False,174
+KEB Hana Bank,004940.KS^D13,4295882085,KOR,KEBHN,KSC,4940,False,140
+Woori Bank,000030.KS^B19,5000039820,KOR,WRFGRB,KSC,000030,False,107
+Sumitomo Mitsui Trust Bank Ltd,8403.T^C11,4295878061,JPN,MITBKA,TYO,8403,False,103
+Daegu Bank Ltd,DGGPF.PK^G11,4295880962,KOR,DGBFNB,PNK,DGGPF,False,26
+Banco Santander Mexico SA Institucion de Banca Multiple Grupo Financiero Santand,BSMXB.MX^E23,4298283335,MEX,BSMXB,MEX,BSMXB,False,25
+Santander Holdings USA Inc,SOV_pc^H18,5000001412,USA,SANRG,NYQ,,False,14
+Deutsche Bank Ag (London Branch),DZZ,4296555278,GBR,DBKGUK,PCQ,DZZ,True,1922
+Banco Inbursa SA Institucion de Banca Multiple Grupo Financiero Inbursa,FNAIM18.MX^D19,4296721032,MEX,GFINBI,MEX,FNAIM18,False,6
+BNP Paribas Issuance BV,,4296858866,NLD,BNPPAI,,,False,25451
+HSBC Bank PLC,MDBL.L^I92,4295895566,GBR,HSBCU,LSE,,False,13210
+Jpmorgan Chase Financial Company LLC,,5050707760,USA,JPMFIN,,,False,12364
+Barclays Bank PLC,,4296470941,GBR,BARCR,,,True,11857
+Credit Suisse Ag London Branch,,4296785143,GBR,CSGNLN,,,False,8169
+JPMorgan Chase Bank NA,,4296044915,USA,JPMBK,,,False,5843
+Synchrony Bank,,5000601425,USA,SYFSY,,,False,2475
+International Bank for Reconstruction and Development,,8589934570,USA,IBRD,,,,2072
+Standard Chartered Bank,,4296126537,GBR,STANHB,,,False,2028
+Bofa Finance LLC,,5051775086,USA,BACBON,,,False,1962
+Credit Agricole Corporate and Investment Bank SA,INDOp.PA^F04,4297220581,FRA,CAGRAB,,,False,1329
+Banco del Estado de Chile,,4296395040,CHL,BAESC,,,,1287
+Royal Bank of Canada (London branch),,5000731377,GBR,RYAAA,,,False,1266
+International Finance Corp,IFK^L10,4296537663,USA,IFC,PCQ,IFK,False,1245
+ING Bank NV,INGs.AS^I99,4295884895,NLD,INGABK,AEX,,False,1059
+KfW,,4295868960,DEU,KFW,,,,1023
+Morgan Stanley Bank NA,,4296783400,USA,MSDWT,,,False,986
+Merrill Lynch BV,,5038044443,NLD,BACME,,,False,952
+Korea Development Bank,,4296424232,KOR,KDB,,,,801
+European Investment Bank,,8589934159,LUX,EIB,,,,752
+Inter-American Development Bank,,8589934158,USA,IADB,,,,710
+European Bank for Reconstruction and Development,,8589934160,GBR,EBRD,,,,676
+Bpce SA,,5000084509,FRA,BPCE,,,False,664
+Discover Bank,,4296730072,USA,DFSDI,,,False,659
+Nederlandse Waterschapsbank NV,,4296543239,NLD,NDLWR,,,,609
+Cooperatieve Rabobank UA,,4298009762,NLD,RABO,,,False,599
+Wells Fargo Bank NA,,4297085623,USA,WFCHLL,,,False,562
+Citibank NA,CKYKP.PK^C06,5000035789,USA,CITCRB,PNK,,False,541
+Nomura Bank International PLC,,4296540146,GBR,NMHLDC,,,False,536
+NRW Bank,,4296865322,DEU,NRWBK,,,,447
+Banque Internationale a Luxembourg SA,LU0006040975.BR,4295883019,LUX,LUOOO,BRU,,True,443
+Banque Federative du Credit Mutuel SA,,4296063555,FRA,CAFDDC,,,False,417
+Bng Bank NV,,4295884742,NLD,BNGBA,,,,366
+Landeskreditbank Baden Wuerttemberg Foerderbank,,4296080185,DEU,LNBAD,,,,303
+Santander International Products Public Ltd Co,,4297420314,ESP,SANSIP,,,False,275
+Development Bank of Japan Inc,,4296543409,JPN,DBJPN,,,,263
+Lloyds Bank Corporate Markets PLC,,5057476778,GBR,LLOYM,,,False,181
+Bank of China Ltd (Sydney Branch),,4297169786,AUS,BKCHAU,,,False,174
+Cooperatieve Rabobank UA (New York Branch),,5000610154,USA,RABON,,,False,168
+Kookmin Bank,,5000076303,KOR,KBFNGK,,,False,166
+Suncorp-Metway Ltd,,5035391926,AUS,SUNCM,,,False,129
+Cibanco SA Institucion de Banca Multiple,,4298528922,MEX,MIRAP,,,False,128
+NongHyup Bank,,5037349820,KOR,NAGRIB,,,False,114
+MUFG Bank Ltd,8315.T^C01,4295878360,JPN,MTFGTU,TYO,8315,False,110
+Sumitomo Mitsui Banking Corp,8318.T^K02,5000001007,JPN,SUMFGI,TYO,8318,False,104
+Korea Development Bank (London Branch),,4296999124,GBR,KDBLN,,,False,90
+Bank of Montreal (Toronto Branch),,5037935712,CAN,BMOTO,,,False,90
+Mizuho Bank Ltd,8317.T^I00,4295878063,JPN,MZFGK,TYO,8317,False,88
+PNC Bank NA,,4296959656,USA,PNCBKN,,,False,83
+Council of Europe Development Bank,,4295946698,FRA,CEB,,,,80
+Bank of China Ltd (New York Branch),,5001112967,USA,BKCHNW,,,False,75
+Industrial and Commercial Bank of China Ltd (London Branch),,5045856696,GBR,ICBATF,,,False,73
+Volvo Treasury AB,,4296471853,SWE,VOLVT,,,False,65
+Mediobanca International Luxembourg SA,,5000037433,LUX,MDBIM,,,False,61
+NatWest Markets NV,ABZRF.PK^C06,4296540158,NLD,NWGNM,PNK,,False,55
+Korea Development Bank (New York Branch),,5000588708,USA,KDBNY,,,False,48
+Manufacturers and Traders Trust Co,,4297905338,USA,MTBXM,,,False,47
+China Construction Bank Corp (Sydney Branch),,5000700735,AUS,CNCBKY,,,False,46
+La Cassa di Ravenna SpA,CDRDRS.HT,5000004037,ITA,CDRDR,HMT,IT0001005229,True,41
+Bank of China Ltd (Luxembourg Branch),,5042373967,LUX,BKCHNX,,,False,41
+National Australia Bank Ltd (New York Branch),,5000728471,USA,NABNY,,,False,40
+Bank of England,,8589934365,GBR,BKENG,,,,40
+Bank Gospodarstwa Krajowego,,5000018341,POL,BKGDK,,,,32
+KeyBank NA,,5000008374,USA,KEYBK,,,False,31
+Sfil SA,,5038044574,FRA,SFIL,,,,30
+Credit Suisse AG (New York Branch),,4296168464,USA,CSGNCU,,,False,29
+Citizens Bank NA,,5000069297,USA,CFGTZ,,,False,28
+Commonwealth Bank of Australia (New York Branch),,5000728453,USA,CBANY,,,False,26
+Royal Bank of Canada (Toronto Branch),,5035428308,CAN,RYCTO,,,False,23
+Banca di Imola SpA,BDIS.HT,4296514607,ITA,BDIS,HMT,IT0000300746,True,23
+Erste Bank Hungary Zrt,,4297189869,HUN,ERSTHU,,,False,19
+China Construction Bank Corporation (London Branch),,5047643874,GBR,CNCBST,,,False,18
+Bank of China (London Branch),,5001167814,GBR,BKCHNL,,,False,18
+Norinchukin Bank,,4295878071,JPN,NORBK,,,False,18
+Turkiye Ihracat Kredi Bankasi AS,,4297147213,TUR,TURIH,,,,14
+Turkiye Cumhuriyeti Ziraat Bankasi AS,,4296757902,TUR,TCHZNC,,,False,13
+Aktif Yatirim Bankasi AS,,4298474369,TUR,CALIKB,,,False,12
+Huntington National Bank,,4296540416,USA,HBANH,,,False,12
+Australia and New Zealand Banking Group Ltd (New York Branch),,5001168020,USA,ANZNEW,,,False,11
+Banco Nacional de Costa Rica,,4296608294,CRI,BNACR,,,,11
+State Bank of India (London Branch),,4297066605,GBR,SBILO,,,False,10
+Korea Development Bank (Tokyo Branch),,5000938266,JPN,KDBTK,,,False,4
+Bank of China Ltd (Paris Branch),,5000761472,FRA,BKCHIN,,,False,3
+Bank of China Limited (Budapest Branch),,5046279231,HUN,BKCHNR,,,False,1
+China Merchants Bank Co Ltd (Sydney Branch),,5056414987,AUS,CHMBKI,,,False,1
+Canara Bank (London Branch),,4297004377,GBR,CNBKL,,,False,1
+Bank of Baroda,,5001111203,GBR,BOBLN,,,False,1

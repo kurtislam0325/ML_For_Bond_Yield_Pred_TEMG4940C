@@ -1,0 +1,22 @@
+type User @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  ToDos: [ToDo] @hasMany(indexName: "byUser", fields: ["id"])
+  password: String
+  email: String
+}
+
+enum Status {
+  TODO
+  INPROGRESS
+  ARCHIVED
+}
+
+type ToDo @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  status: Status
+  title: String
+  description: String
+  priority: Int
+  userID: ID! @index(name: "byUser")
+}
+ 
